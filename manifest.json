@@ -1,0 +1,9 @@
+{
+  "name": "CropChat",
+  "description": "CropChat - Image Messenger Application",
+  "display": "fullscreen",
+  "icon": {
+    "src": "src/assets/logo.png",
+    "sizes": [200]
+  }
+}
